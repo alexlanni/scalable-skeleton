@@ -1,8 +1,21 @@
 # Scalar Application Skeleton
 
-## Skeleton di una applicazione PHP con funzionalita' di scalabilita'.
+## Skeleton di una applicazione PHP con funzionalita' di scalabilita'
 
 ###### Alessandro Lanni (c)2020
+
+## Overview
+
+Avviando i servizi mediante:
+
+````
+docker-compose up -d
+````
+Si avvieranno:
+
+- Una applicazione PHP `webapp`
+- Una istanza di mariadb MASTER `datastoremaster`
+- Una istanza di mariadb SLAVE `datastoreslaveA`
 
 ## Configutazione
 
