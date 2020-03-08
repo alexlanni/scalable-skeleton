@@ -1,0 +1,24 @@
+{
+  "name": "Scalable Skeleton",
+  "description": "Basic Skeleton Application using PHP / Docker / Multiple Mysql Server",
+  "authors": [
+    {
+      "name": "Alessandro Lanni",
+      "email": "me@alessandrolanni.net",
+      "homepage": "http://alessandrolanni.net/"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "Alanni\\": "src/"
+    }
+  },
+  "require":{
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
+  "scripts": {
+
+  }
+}
