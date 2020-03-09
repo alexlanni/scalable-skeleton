@@ -1,4 +1,4 @@
-# Scalar Application Skeleton
+# Scalable Application Skeleton
 
 ## Skeleton di una applicazione PHP con funzionalita' di scalabilita'
 
