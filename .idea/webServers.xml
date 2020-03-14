@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcd58b2c-75f4-41aa-a231-d61df623f5c7" name="scalable@10.8.0.5" url="http://10.8.0.5">
+        <fileTransfer host="10.8.0.5" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/scalable" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
